@@ -1,0 +1,25 @@
+{
+  "parsed_movies": 2000,
+  "detail_files": 2000,
+  "html_files": 2016,
+  "all_movies_cards": 2000,
+  "category_cards_total": 2000,
+  "category_counts": {
+    "家庭治愈": 167,
+    "奇幻科幻": 167,
+    "年度热播": 167,
+    "青春校园": 166,
+    "悬疑犯罪": 167,
+    "动画纪实": 166,
+    "喜剧生活": 167,
+    "古装历史": 166,
+    "经典国际": 167,
+    "动作武侠": 167,
+    "都市爱情": 167,
+    "恐怖惊悚": 166
+  },
+  "baidu_missing": [],
+  "jpg_files_in_output": [],
+  "video_urls_total": 150,
+  "unique_video_urls": 20
+}
